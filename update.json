@@ -1,6 +1,6 @@
 [
   {
-    "version": "1.1.5",
+    "version": "1.1.6",
     "changes": [
       "Added admin mention system for group",
       "Introduced persistent antibadwords system with JSON storage",
