@@ -18,7 +18,8 @@
         "plugins/getLink.js",
         "plugins/lock.js",
         "plugins/ping.js",
-        "plugins/viewOnce.js"
+        "plugins/viewOnce.js",
+        "package.json"
       ],
       "delete": [
         "plugins/gemini.js"
