@@ -1,0 +1,28 @@
+[
+  {
+    "version": "1.1.5",
+    "changes": [
+      "Added admin mention system for group",
+      "Introduced persistent antibadwords system with JSON storage",
+      "Improved event handling stability and performance",
+      "Fixed bugs in group command execution",
+      "Enhanced warning and kick system reliability"
+    ],
+    "update": {
+      "add": [
+        "plugins/adminmention.js",
+        "plugins/antibadwords.js",
+        "plugins/pai.js"
+      ],
+      "modify": [
+        "plugins/getLink.js",
+        "plugins/lock.js",
+        "plugins/ping.js",
+        "plugins/viewOnce.js"
+      ],
+      "delete": [
+        "plugins/gemini.js"
+      ]
+    }
+  }
+]
