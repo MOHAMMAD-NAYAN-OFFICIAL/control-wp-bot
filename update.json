@@ -25,5 +25,21 @@
         "plugins/gemini.js"
       ]
     }
+  },
+  {
+    "version": "1.1.7",
+    "changes": [
+      "Inbox issue fixed (message not working problem resolved)"
+    ],
+    "update": {
+      "add": [],
+      "modify": [
+        "plugins/adminmention.js",
+        "plugins/antibadwords.js",
+        "plugins/lock.js",
+        "package.json"
+      ],
+      "delete": []
+    }
   }
 ]
